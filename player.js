@@ -20,12 +20,6 @@
 //PLAYLIST 
     let songs = [
         {
-            title: '愛を知るまでは',
-            artist: '愛みょん',
-            songPath: 'music/あいみょん – 愛を知るまでは.mp3',
-            imgPath: 'images/愛みょん.jpeg'
-        },
-        {
             title: 'Position',
             artist: 'Ariana Grande',
             songPath: 'music/Ariana Grande - positions.mp3',
@@ -54,6 +48,12 @@
             artist: 'Taylor Swift',
             songPath: 'music/Taylor Swift - Blank Space.mp3',
             imgPath: 'images/Taylor Swift.webp'
+        },
+        {
+            title: '愛を知るまでは',
+            artist: '愛みょん',
+            songPath: 'music/あいみょん – 愛を知るまでは.mp3',
+            imgPath: 'images/愛みょん.jpeg'
         }
     ];
 
